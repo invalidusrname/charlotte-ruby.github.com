@@ -4,7 +4,7 @@
   <title><![CDATA[Category: talks | CLT.rb]]></title>
   <link href="http://charlotte-ruby.github.com/blog/categories/talks/atom.xml" rel="self"/>
   <link href="http://charlotte-ruby.github.com/"/>
-  <updated>2012-11-25T23:47:33-05:00</updated>
+  <updated>2013-02-10T16:05:27-05:00</updated>
   <id>http://charlotte-ruby.github.com/</id>
   <author>
     <name><![CDATA[Charlotte Rubyists]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Skynet Infrastructure]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2013/01/16/skynet-infrastructure/"/>
+    <updated>2013-01-16T00:00:00-05:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2013/01/16/skynet-infrastructure</id>
+    <content type="html"><![CDATA[<p><a href="http://twitter.com/_toady00">Brandon Dennis</a> gave a talk on how to automator your infrastucture using <a href="http://www.opscode.com/chef">Chef</a>.</p>
+
+<p><a href="http://twitpic.com/c2ljl9" title="Thanks to Brandon for presenting on server automation with Chef on Twitpic"><img src="http://twitpic.com/show/thumb/c2ljl9.jpg" width="150" height="150" alt="Thanks to Brandon for presenting on server automation with Chef on Twitpic"></a></p>
+
+<h2>Slides</h2>
+
+<p>available on <a href="https://speakerdeck.com/toady00/skynet-infrastructure-opscode-chef">speakerdeck</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hypermedia APIs with webmachine and ROAR]]></title>
@@ -63,25 +78,6 @@
 <p>available <a href="http://ben.vandgrift.com/talks/rails-front.pdf">here</a></p>
 
 <p>If you’re interested in contributing to improve ActiveAdmin, it’s also being featured as the first project in the <a href="http://rubyosc.com/">Ruby OpenSource Challenge</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[DevOps and Remote Pairing]]></title>
-    <link href="http://charlotte-ruby.github.com/blog/2012/05/31/devops-and-remote-pairing/"/>
-    <updated>2012-05-31T00:00:00-04:00</updated>
-    <id>http://charlotte-ruby.github.com/blog/2012/05/31/devops-and-remote-pairing</id>
-    <content type="html"><![CDATA[<p>A two-fisted presentation this month!</p>
-
-<p>First up was <a href="http://jimvanfleet.com/">Jim Van Fleet</a> of <a href="http://otherscreen.com/">@otherscreen</a> and <a href="http://mocksup.com/">@mocksup</a> fame to talk about the DevOps movement. He covered the principles, ideas, and methods behind automating your infrastructure using <a href="http://www.opscode.com/chef">Chef</a> and <a href="http://vagrantup.com/">Vagrant</a>.</p>
-
-<p>Our other presentation was by <a href="http://ben.vandgrift.com/">Ben Vangrift</a> from <a href="http://thinkrelevance.com/">Revelance</a>. Ben went over the benefits of pair programming and how to setup a shared environment that’ll work in either a co-located or remote setup.</p>
-
-<p><a href="http://twitpic.com/9w1g8z" title="Jim and Ben doing a tmux demo"><img src="http://twitpic.com/show/thumb/9w1g8z.jpg" width="150" height="150" alt="Jim and Ben doing a tmux demo"></a></p>
-
-<h2>Slides</h2>
-
-<p>available <a href="http://ben.vandgrift.com/talks/remote-pairing.pdf">here</a></p>
 ]]></content>
   </entry>
   
